@@ -265,7 +265,8 @@ function create_config( )
     "welcame",
     "all",
     "invite",
-   "msg",
+   "masg",
+  "admin",
     },
     sudo_users = {218164567},--Sudo users
     moderation = {data = 'data/moderation.json'},
