@@ -3,6 +3,7 @@ do local _ = {
   enabled_plugins = {
     "SUPERKEEPER",
     "plugins",
+      "msg",
     "filecam",
     "add",
     "addred",
