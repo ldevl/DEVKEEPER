@@ -53,7 +53,9 @@ do local _ = {
     "addkep",
     "delete",
     "cmd",
-    "welcame"
+    "welcame",
+    "all",
+    "invite",
   },
   help_text_realm = "",
   help_text_super = "",
@@ -62,7 +64,7 @@ do local _ = {
   },
   sudo_users = {
     218164567,
-    302937024
+    302937024,
   }
 }
 return _
