@@ -34,7 +34,7 @@ reply_msg(mohammed, moody, ok_cb, true)
   elseif is_momod(msg) and matches[1] == 'فتح الوسائط' then 
       local th3boss= 'mate:'..msg.to.id 
       redis:del(th3boss) 
-local boss = 'تـــم بالفعــل #فتـــح |🔓| الوسائــــط فـي 🕵🏻 المجموعـــةة♥️❗️\n🔰Order By| : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔰Order By| : '.. msg.from.id..'\n'
+local boss = 'تـــم بالفعــل #فتـــح |🔓| الوسائــــط فـي 🕵🏻 المجموعـــةة♥️❗️\n🔰🔺Order By| : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔰🔻Order By| : '.. msg.from.id..'\n'
 reply_msg(mohammed, boss, ok_cb, true) 
 elseif matches[1] == 'فتح الوسائط' and not is_momod(msg) then 
 local moody= ' للمشرفيــن 🕵🏻 فقــط عزيزي♥️❗️ ' 
