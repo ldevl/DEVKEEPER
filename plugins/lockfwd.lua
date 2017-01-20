@@ -38,13 +38,13 @@ end
 if is_momod(msg) and matches[1] == 'قفل' and matches[2]== 'التوجيه' then
     local debye2 = 'debye2_fwd:'..msg.to.id 
     redis:set(debye2, true)
-    local text = 'التوجيــــه بالفعـــل# تم قفُــــله🔐 فــي المجموعـــــةة♥️❗️\n🔲♦️Us : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔲♦️ID : '.. msg.from.id..'\n'
+    local text = 'التوجيــــه بالفعـــل تم #قفُــــله🔐 فــي المجموعـــــةة♥️❗️\n🔲♦️Us : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔲♦️ID : '.. msg.from.id..'\n'
     return reply_msg(msg.id, text, ok_cb, false)
     
  elseif is_momod(msg) and matches[1] == 'فتح' and matches[2]== 'التوجيه' then
     local debye2 = 'debye2_fwd:'..msg.to.id 
     redis:del(debye2)
-    local text = 'التوجيــــه بالفعـــل# تم فتحــه🔓 فــي المجموعـــــةة♥️❗️\n🔲♦️Us : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔲♦️ID : '.. msg.from.id..'\n'
+    local text = 'التوجيــــه بالفعـــل  تم #فتحــه🔓 فــي المجموعـــــةة♥️❗️\n🔲♦️Us : @'..(msg.from.username or " لآ يہؤجہد ")..'\n🔲♦️ID : '.. msg.from.id..'\n'
     return reply_msg(msg.id, text, ok_cb, false)   
 end
 if is_momod(msg) and matches[1] == 'طرد' and matches[2]== 'التوجيه' then
