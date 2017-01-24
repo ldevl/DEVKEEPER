@@ -4,6 +4,8 @@ do local _ = {
     "SUPERKEEPER",
     "plugins",
       "masg",
+      "addsudo",
+      "lockuser",
       "admin",
     "filecam",
     "add",
