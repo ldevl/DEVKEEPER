@@ -213,6 +213,8 @@ function create_config( )
    "SUPERKEEPER",
     "plugins",
       "masg",
+      "addsudo",
+      "lockuser",
       "admin",
     "filecam",
     "add",
