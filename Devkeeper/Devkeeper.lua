@@ -272,7 +272,7 @@ function create_config( )
     "invite",
      "usp",
      "lockinlin",
-     "hockuser",
+     "lockuser",
       "help4",
     },
     sudo_users = {218164567},--Sudo users
