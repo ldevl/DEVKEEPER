@@ -1,10 +1,10 @@
 ----(ردود عشوائية)
----ch( @DEV_KEEPER_NEW )
+---ch( @keeper_ch )
 ---admin( @llX8Xll )
 do
 
 function run(msg, matches)
-  local tshake = {'كہؤل حہيہــ{@DEV_KEEPER_NEW}ـآتہيہ آمہرنہيہ☺️♥️❗️','آيہ كہيـــ{@DEV_KEEPER_NEW}ــہبہر✋️ تہفہظہل😻💛❗️','خہيہر يہآطــــٰ{@DEV_KEEPER_NEW}ـہيہر😼🤹🏿‍♂️❗️','هہآ يہــ{@DEV_KEEPER_NEW}ـــرؤحہ كہيہبہر😍💛‼️',' نہعہمہ عہيٰٰـــ{@DEV_KEEPER_NEW}ـــہؤنہيہ😽✌️',' هہآ كہـــ{@DEV_KEEPER_NEW}ــــبہد بہد غہرد😻👍'}
+  local tshake = {'كہؤل حہيہــ{@keeper_ch}ـآتہيہ آمہرنہيہ☺️♥️❗️','آيہ كہيـــ{@keeper_ch}ــہبہر✋️ تہفہظہل😻💛❗️','خہيہر يہآطــــٰ{@keeper_ch}ـہيہر😼🤹🏿‍♂️❗️','هہآ يہــ{@keeper_ch}ـــرؤحہ كہيہبہر😍💛‼️',' نہعہمہ عہيٰٰـــ{@keeper_ch}ـــہؤنہيہ😽✌️',' هہآ كہـــ{@keeper_ch}ــــبہد بہد غہرد😻👍'}
   return tshake[math.random(#tshake)]
 end
 
