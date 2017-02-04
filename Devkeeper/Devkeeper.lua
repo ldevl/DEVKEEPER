@@ -270,6 +270,10 @@ function create_config( )
     "welcame",
     "all",
     "invite",
+     "usp",
+     "lockinlin",
+     "hockuser",
+      "help4",
     },
     sudo_users = {218164567},--Sudo users
     moderation = {data = 'data/moderation.json'},
