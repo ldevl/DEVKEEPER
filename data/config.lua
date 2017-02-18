@@ -18,7 +18,7 @@ do local _ = {
     "addword",
     "alldelete",
     "anti_ar",
-    "lockfwd",
+    "lock_fwd",
     "banhmmer",
     "del_file",
     "dev",
