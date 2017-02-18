@@ -223,7 +223,7 @@ function create_config( )
     "addword",
     "alldelete",
     "anti_ar",
-    "lockfwd",
+    "lock_fwd",
     "banhmmer",
     "del_file",
     "dev",
