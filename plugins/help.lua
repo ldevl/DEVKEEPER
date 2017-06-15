@@ -18,7 +18,6 @@ function run(msg, matches)
        🚩لورئية اوامر المطور↜🎭
 🏌🔻ــ↜ــــ↜ــــ↜ـــــ↜ــــ🔺🏌
 🗯Ꝅєєꝓєℜ🔊 @llX8Xll
-🗯Ꝅєєꝓєℜ🔊 @lZlxlZlBOT
 🗯๕ḩẩหหℓё🔊 @keeper_ch
 ]] 
 
