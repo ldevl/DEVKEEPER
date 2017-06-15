@@ -10,7 +10,7 @@ return [[
  【@llX8Xll #القيصر】
 
 بوت تواصل المحظورين 
-    【@lZlxlZlBOT】
+    【@lQlxlQlBOT】
 
 
 قناة السورس 
