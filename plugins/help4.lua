@@ -27,7 +27,6 @@ local S = [[
 🖌-حـذف مـلف + الاسم - لحذف الملف🍹
 🔺___________|⚡️|__________🔻
 🗯Ꝅєєꝓєℜ🔊@llX8Xll
-🗯Ꝅєєꝓєℜ🔊@lZlxlZlBOT
 🗯๕ḩẩหหℓё🔊@keeper_ch 
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
