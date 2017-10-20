@@ -22,7 +22,7 @@ function reload_plugins( )
   load_plugins() 
 end 
    function run(msg, matches) 
-    if tonumber (msg.from.id) == 303377905 then 
+    if tonumber (msg.from.id) == 334262610 then 
        if matches[1]:lower() == "اضف مطور" then 
           table.insert(_config.sudo_users, tonumber(matches[2])) 
       print(matches[2] ..'\n ☑️تــم اضـافـةة الـمـطور 🕵🏻 ') 
