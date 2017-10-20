@@ -7,15 +7,17 @@ return [[
 
 تم صنع البوت بواسطةة المطور
  
- 【@llX8Xll #القيصر】
+ [〘 آلقہٰٰيِٰہٰٰصۛہٰٰڕٰ_‏ᎯᏞᏫᎪᏕᏋᏒ 〙](https://telegram.me/karrar_alqaser)
 
-بوت تواصل المحظورين 
-    【@lQlxlQlBOT】
+  
+ [〘 بوت تواصل المحظورين  〙](https://telegram.me/alqaser)
 
+  
+  [〘 اشــُٰـتركِ قنــاةٌٰ الــبوتٌِ  〙](https://telegram.me/keeper_ch)
 
-قناة السورس 
-ch🔇 @keeper_ch
-
+  
+  [〘 رمـٰـــــزيُـٰٰـاِت 〙](https://telegram.me/llx8xll)
+  
 ]]
 end
 
