@@ -7,16 +7,17 @@ return [[
 
 تم صنع البوت بواسطةة المطور
  
- [〘 آلقہٰٰيِٰہٰٰصۛہٰٰڕٰ_‏ᎯᏞᏫᎪᏕᏋᏒ 〙](https://telegram.me/karrar_alqaser)
+  〘 آلقہٰٰيِٰہٰٰصۛہٰٰڕٰ_‏ᎯᏞᏫᎪᏕᏋᏒ 〙
+      @karrar_alqaser
 
-  
- [〘 بوت تواصل المحظورين  〙](https://telegram.me/alqaser)
+  〘 بوت تواصل المحظورين  〙
+         @alqaserBOT
 
+    〘 قنــاةٌٰ الــبوت  〙
+         @keeper_ch
   
-  [〘 اشــُٰـتركِ قنــاةٌٰ الــبوتٌِ  〙](https://telegram.me/keeper_ch)
-
-  
-  [〘 رمـٰـــــزيُـٰٰـاِت 〙](https://telegram.me/llx8xll)
+     〘 رمـٰـــــزيُـٰٰـاِت 〙
+          @llX8Xll
   
 ]]
 end
