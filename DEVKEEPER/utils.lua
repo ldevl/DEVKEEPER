@@ -16,7 +16,7 @@ function get_receiver(msg)
 
   if msg.to.type == 'user' then
     return 'user#id'..msg.from.id
-  end
+  endKEEPER
   if msg.to.type == 'chat' then
     return 'chat#id'..msg.to.id
   end
